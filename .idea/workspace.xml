@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00bc62eb-5fbe-4826-a1a7-89985a07fe72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex/ex.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/Sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vireidevjava.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="00bc62eb-5fbe-4826-a1a7-89985a07fe72" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +40,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Vitor/IdeaProjects/vireidevjava/minesweeper",
+    "last_opened_file_path": "C:/Users/Vitor/IdeaProjects/vireidevjava",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,6 +56,21 @@
       <recent name="C:\Users\Vitor\IdeaProjects\vireidevjava\minesweeper\src\main\java\com\github" />
       <recent name="C:\Users\Vitor\IdeaProjects\vireidevjava\minesweeper\src\main\java\com" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="vireidevjava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="vireidevjava" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -86,6 +91,7 @@
       <workItem from="1729113156055" duration="1316000" />
       <workItem from="1729114539984" duration="1396000" />
       <workItem from="1729116539341" duration="61000" />
+      <workItem from="1729117120415" duration="19000" />
     </task>
     <servers />
   </component>
